@@ -1,66 +1,24 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Wash app 
+### Link: 
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### App screens
+<img width="658" alt="Screenshot 2024-06-21 005749" src="https://github.com/abdoweb123/Wash/assets/96248035/7d4f8e6e-1c8e-4299-920e-660e7a0880c2">
+<img width="661" alt="Screenshot 2024-06-21 005840" src="https://github.com/abdoweb123/Wash/assets/96248035/83ecb4dc-285b-483c-8941-64588be6f438">
+<img width="637" alt="Screenshot 2024-06-21 010025" src="https://github.com/abdoweb123/Wash/assets/96248035/2c67afdd-6bf8-445d-935b-1a4ea9cf466c">
+<img width="647" alt="Screenshot 2024-06-21 005943" src="https://github.com/abdoweb123/Wash/assets/96248035/4340b73a-7c75-42db-a620-a778b029c56b">
+<img width="633" alt="Screenshot 2024-06-21 010114" src="https://github.com/abdoweb123/Wash/assets/96248035/0151d530-11c7-4cca-bef8-16514a6df9ed">
+<img width="659" alt="Screenshot 2024-06-21 010056" src="https://github.com/abdoweb123/Wash/assets/96248035/d7d2b8bb-ffff-4d98-8f53-e54333773182">
+<img width="657" alt="Screenshot 2024-06-21 010211" src="https://github.com/abdoweb123/Wash/assets/96248035/e9612ece-6eaa-43ee-8a95-927878a6d358">
+<img width="631" alt="Screenshot 2024-06-21 010134" src="https://github.com/abdoweb123/Wash/assets/96248035/2dc2e3d2-a999-488e-94bc-69ee7d473b6c">
+<img width="629" alt="Screenshot 2024-06-21 010511" src="https://github.com/abdoweb123/Wash/assets/96248035/a5a9c413-cca3-47d8-8c6a-52cf6e7bc1e6">
+<img width="658" alt="Screenshot 2024-06-21 010449" src="https://github.com/abdoweb123/Wash/assets/96248035/0ac90cf7-775d-45b8-9ed9-a0cb469d4b4c">
+<img width="653" alt="Screenshot 2024-06-21 010423" src="https://github.com/abdoweb123/Wash/assets/96248035/9bda51a3-ba37-49b9-b669-70f9fe7afd22">
+<img width="650" alt="Screenshot 2024-06-21 010336" src="https://github.com/abdoweb123/Wash/assets/96248035/d9f005ca-2ebf-4bd4-a8ed-63ee999532c5">
+<img width="642" alt="Screenshot 2024-06-21 010305" src="https://github.com/abdoweb123/Wash/assets/96248035/6f591d30-0936-481e-9126-0ef3ce92b79b">
 
-## About Laravel
+### Dashboard screens
+<img width="931" alt="Screenshot 2024-06-21 010831" src="https://github.com/abdoweb123/Wash/assets/96248035/9caaaebb-2f7d-460f-ad8b-25c9ad2cd1ba">
+<img width="955" alt="Screenshot 2024-06-21 010801" src="https://github.com/abdoweb123/Wash/assets/96248035/16303040-b4dd-47c3-bc16-615029aef3a7">
+<img width="942" alt="Screenshot 2024-06-21 010909" src="https://github.com/abdoweb123/Wash/assets/96248035/ad7a8811-e54b-4115-bc66-3513eee83899">
+<img width="938" alt="Screenshot 2024-06-21 011011" src="https://github.com/abdoweb123/Wash/assets/96248035/2674e34c-2f07-43be-8daf-c2e958d5b13c">
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
